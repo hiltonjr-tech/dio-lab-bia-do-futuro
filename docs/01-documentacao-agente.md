@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Muitas pessoas dosas tem dificuldades com tecnologias e problemas de aplicativos financeiros
+Muitas pessoas idosas tem dificuldades com tecnologias e problemas de aplicativos financeiros
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
@@ -37,9 +37,9 @@ Hilton Jr (Consultor financeiro)
 [Sua descrição aqui]
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
+- Saudação: [ex: "Olá! Eu me chamo Hilton Jr e como posso te ajudar com suas finanças hoje?"]
 - Confirmação: [ex: "Entendi! Deixa eu verificar isso para você."]
-- Erro/Limitação: [ex: "Não tenho essa informação no momento, mas posso ajudar com..."]
+- Erro/Limitação: [ex: "Não posso te recomendar sobre investimentos, mas posso ajudar com..."]
 
 ---
 
@@ -61,7 +61,7 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
+| Interface | [Streamlit](https://streamlit.io/) |
 | LLM | [ex: GPT-4 via API] |
 | Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
 | Validação | [ex: Checagem de alucinações] |
