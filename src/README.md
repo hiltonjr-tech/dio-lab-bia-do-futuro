@@ -31,7 +31,7 @@ python-dotenv
 
 ## Como Rodar
 
-Todo código fonte está no app.py
+Todo código fonte está no arquivo app.py
 
 ```bash
 # Instalar dependências
