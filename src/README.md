@@ -31,6 +31,8 @@ python-dotenv
 
 ## Como Rodar
 
+Todo código fonte está no app.py
+
 ```bash
 # Instalar dependências
 pip install -r requirements.txt
