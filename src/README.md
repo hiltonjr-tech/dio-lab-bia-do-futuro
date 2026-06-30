@@ -2,7 +2,15 @@
 
 Esta pasta contém o código do seu agente financeiro.
 
+Set do Ollama
+
+# 1. Instalar o ollama
+# 2. Baixar um modelo leve
+# 3. ollama pull gemma4
+
 ## Estrutura Sugerida
+ollama run gemma4 "Hello Hilton Jr"
+
 
 ```
 src/
@@ -15,6 +23,7 @@ src/
 ## Exemplo de requirements.txt
 
 ```
+
 streamlit
 openai
 python-dotenv
