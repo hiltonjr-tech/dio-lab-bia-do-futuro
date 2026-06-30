@@ -4,7 +4,7 @@ Esta pasta contém o código do seu agente financeiro.
 
 Set do Ollama
 
-# 1. Instalar o ollama
+# 1. Instalar o ollama(ollama.com)
 # 2. Baixar um modelo leve
 # 3. ollama pull gemma4
 
